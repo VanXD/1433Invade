@@ -1,0 +1,9 @@
+jdbc:sqlserver://100.2.0.6:1433; DatabaseName=master
+sa
+123
+jdbc:sqlserver://100.2.0.14:1433; DatabaseName=master
+sa
+123456
+jdbc:sqlserver://100.2.0.106:1433; DatabaseName=master
+sa
+neusoft
